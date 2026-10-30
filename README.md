@@ -62,19 +62,24 @@ Result: **45.3M rows read, 44.8M kept (98.9%)**, every exclusion counted in `dat
 ## Dashboard preview
 
 ### Page 1: Overview & Market Share
-![Overview]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (54).png")
+![Overview](<img width="1920" height="1021" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/4312ffc8-9511-42bb-ad85-1c29324cf33b" />
+) 
 
 ### Page 2: Yellow Taxi & Flex Fare Analysis
-![Yellow & Flex Fare](screenshots/Screenshot%20(55).png)
+![Yellow & Flex Fare](<img width="1920" height="1015" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c0728b29-9723-4e1e-a1de-f6a02d782d8b" />
+)
 
 ### Page 3: Congestion Fee Collections
-![Congestion Fee](screenshots/Screenshot%20(56).png)
+![Congestion Fee](<img width="1920" height="1021" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/595e1e04-4f6e-4d80-b605-e33cc8a6f88e" />
+)
 
 ### Page 4: Geographic & Hourly Demand
-![Where & When](screenshots/Screenshot%20(57).png)
+![Where & When](<img width="1920" height="1014" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/203738ef-d370-4cef-9d18-65845a1a2169" />
+)
 
 ### Page 5: Data Quality & Reconciliation
-![Data Quality](screenshots/Screenshot%20(58).png)
+![Data Quality](<img width="1920" height="1004" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/6bf2a05f-11a5-4182-82fd-d843f42e6bec" />
+)
 
 ## Validation
 
