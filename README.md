@@ -62,12 +62,10 @@ Result: **45.3M rows read, 44.8M kept (98.9%)**, every exclusion counted in `dat
 ## Dashboard preview
 
 ### Page 1: Overview & Market Share
-![Overview](<img width="1920" height="1021" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/4312ffc8-9511-42bb-ad85-1c29324cf33b" />
-) 
+![Overview](<img width="1920" height="1021" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/993c5c7d-e86c-4ac7-bf01-cd68079d63e7" />) 
 
 ### Page 2: Yellow Taxi & Flex Fare Analysis
-![Yellow & Flex Fare](<img width="1920" height="1015" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c0728b29-9723-4e1e-a1de-f6a02d782d8b" />
-)
+![Yellow & Flex Fare](<img width="1920" height="1015" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c0728b29-9723-4e1e-a1de-f6a02d782d8b" />)
 
 ### Page 3: Congestion Fee Collections
 ![Congestion Fee](<img width="1920" height="1021" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/595e1e04-4f6e-4d80-b605-e33cc8a6f88e" />
