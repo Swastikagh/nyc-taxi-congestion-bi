@@ -62,7 +62,7 @@ Result: **45.3M rows read, 44.8M kept (98.9%)**, every exclusion counted in `dat
 ## Dashboard preview
 
 ### Page 1: Overview & Market Share
-![Overview](screenshots/Screenshot%20(54).png)
+![Overview]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (54).png")
 
 ### Page 2: Yellow Taxi & Flex Fare Analysis
 ![Yellow & Flex Fare](screenshots/Screenshot%20(55).png)
