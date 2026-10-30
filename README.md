@@ -62,22 +62,19 @@ Result: **45.3M rows read, 44.8M kept (98.9%)**, every exclusion counted in `dat
 ## Dashboard preview
 
 ### Page 1: Overview & Market Share
-![Overview](<img width="1920" height="1021" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/993c5c7d-e86c-4ac7-bf01-cd68079d63e7" />) 
+![Overview](./Screenshot%20(54).png)
 
 ### Page 2: Yellow Taxi & Flex Fare Analysis
-![Yellow & Flex Fare](<img width="1920" height="1015" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c0728b29-9723-4e1e-a1de-f6a02d782d8b" />)
+![Yellow & Flex Fare](./Screenshot%20(55).png)
 
 ### Page 3: Congestion Fee Collections
-![Congestion Fee](<img width="1920" height="1021" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/595e1e04-4f6e-4d80-b605-e33cc8a6f88e" />
-)
+![Congestion Fee](./Screenshot%20(56).png)
 
 ### Page 4: Geographic & Hourly Demand
-![Where & When](<img width="1920" height="1014" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/203738ef-d370-4cef-9d18-65845a1a2169" />
-)
+![Where & When](./Screenshot%20(57).png)
 
 ### Page 5: Data Quality & Reconciliation
-![Data Quality](<img width="1920" height="1004" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/6bf2a05f-11a5-4182-82fd-d843f42e6bec" />
-)
+![Data Quality](./Screenshot%20(58).png)
 
 ## Validation
 
