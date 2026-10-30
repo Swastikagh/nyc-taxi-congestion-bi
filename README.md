@@ -62,19 +62,19 @@ Result: **45.3M rows read, 44.8M kept (98.9%)**, every exclusion counted in `dat
 ## Dashboard preview
 
 ### Page 1: Overview & Market Share
-![Overview]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (54).png")
+![Overview](screenshots/Screenshot%20(54).png)
 
 ### Page 2: Yellow Taxi & Flex Fare Analysis
-![Yellow & Flex Fare]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (55).png")
+![Yellow & Flex Fare](screenshots/Screenshot%20(55).png)
 
 ### Page 3: Congestion Fee Collections
-![Congestion Fee]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (56).png")
+![Congestion Fee](screenshots/Screenshot%20(56).png)
 
 ### Page 4: Geographic & Hourly Demand
-![Where & When]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (57).png")
+![Where & When](screenshots/Screenshot%20(57).png)
 
 ### Page 5: Data Quality & Reconciliation
-![Data Quality]("C:\Users\sharm\OneDrive\Desktop\NYC-TAXI PROJ\screenshots\Screenshot (58).png")
+![Data Quality](screenshots/Screenshot%20(58).png)
 
 ## Validation
 
